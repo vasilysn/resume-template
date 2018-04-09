@@ -1,5 +1,3 @@
-# Jobs
-# Springfield Nuclear Power Plant
 - company: EllaMD
   position: Software developer
   duration: Feb, 2018 &mdash; Present
@@ -8,7 +6,7 @@
 - company: BOSS Solutions
   position: Lead software developer
   duration: Nov 2015 &mdash; Jan 2018
-  summary: "Initially I served as a fullstack developer on BOSS811, a ticketing system designed to manage excavation requests. I've bootstraped it from scratch and integrated with GIS software, including ArcGIS and OSM. I also managed to aggregate undocumented data sources from government agencies. <br>After that I switched to another project(BOSSDesk) where my responsibility was to oversee development process, build product roadmap, assign tasks to junior developers and do code reviews."
+  summary: "Initially I served as a fullstack developer on BOSS811 - a ticketing system designed to manage excavation requests. I've bootstraped it from scratch and integrated with GIS software, including ArcGIS and OSM. I also managed to aggregate undocumented data sources from government agencies. <br>After that I switched to another project(BOSSDesk) where my responsibility was to oversee development process, build product roadmap, assign tasks to junior developers and do code reviews."
 
 - company: Nadine West
   position: Software developer
