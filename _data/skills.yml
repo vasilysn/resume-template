@@ -5,8 +5,8 @@
 - skill: Frontend development
 - description: JavaScript(ES6, ES7), TypeScript, React/Redux/MobX, Vue.js/Vuex, Angular
 
-- skill: Cloud hosting & API integrations
-- description: AWS / Heroku / Azure / Stripe
+- skill: Databases
+- description: PostgreSQL, MongoDB, RethinkDB
 
-- skill: Other
-- description: TDD, BDD, Continuous integration
+- skill: Cloud hostings & API integrations
+- description: AWS / Heroku / Azure / Stripe
