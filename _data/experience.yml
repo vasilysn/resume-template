@@ -1,7 +1,11 @@
+- company: Jumper Media
+  position: Engineering team lead
+  duration: May, 2018 &mdash; Present
+
 - company: EllaMD
   position: Software developer
-  duration: Feb, 2018 &mdash; Present
-  summary: I've started working on frontend and backend of EllaMD application not long ago; since then I've integrated recurring payments model, improved performance to acceptable level and revamped UI for a better user experience.
+  duration: Feb, 2018 &mdash; Apr 2018
+  summary: I've spent 3 months working on EllaMD project. At that time I've built recurring payments system, improved performance to acceptable level and revamped UI for a better user experience.
 
 - company: BOSS Solutions
   position: Lead software developer

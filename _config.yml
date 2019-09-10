@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Vasily Nesterov"
-resume_title:                   "Software engineer"
+resume_title:                   "Engineering team lead"
 resume_contact_email:           "vasily.s.nesterov@gmail.com"
 resume_contact_telephone:       "+7 996 795-10-76"
-resume_contact_address:         "Dachny Prospekt 36k8, Saint Petersburg"
-resume_header_contact_info: "Dachny Prospekt 36k8, Saint Petersburg | vasily.s.nesterov@gmail.com"
-resume_header_intro: "<p>Full-stack developer with 6 years of experience, currently working with Ruby on Rails, React and MobX.</p>
+resume_contact_address:         "Naberezhnaya Reki Fontanki 50, Saint Petersburg"
+resume_header_contact_info: "Naberezhnaya Reki Fontanki 50, Saint Petersburg | vasily.s.nesterov@gmail.com"
+resume_header_intro: "<p>Full-stack developer with 7 years of experience, currently working with Ruby on Rails, TypeScript and React.</p>
 <p>I'm looking for startups with challenging projects to build something great together.</p>"
 
 # use "yes" to display the email contact button,
@@ -43,8 +43,8 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
+resume_linkedin_url:          "https://www.linkedin.com/in/vasilysn"
+resume_instagram_url:         "https://www.instagram.com/vasily.nesterov/"
   # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      false
 
