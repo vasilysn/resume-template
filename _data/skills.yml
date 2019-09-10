@@ -3,10 +3,10 @@
 - description: Ruby, Ruby on Rails, Elixir, Phoenix
 
 - skill: Frontend development
-- description: JavaScript(ES6, ES7), TypeScript, React/Redux/MobX, Vue.js/Vuex, Angular
+- description: TypeScript, React/Redux/MobX
 
 - skill: Databases
 - description: PostgreSQL, MongoDB, RethinkDB
 
-- skill: Cloud hostings & API integrations
-- description: AWS / Heroku / Azure / Stripe
+- skill: DevOps
+- description: Kubernetes (GKE, EKS), Docker
